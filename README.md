@@ -8,7 +8,7 @@
 目前项目运行至 **阶段1** 。
 
 ```html
-<div align="right"><img src="./assets/run.png"></div>
+<div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run.png"></a></div>
 <p align="right">当前所在位置：<strong>run > folder</strong></p>
 ```
 
