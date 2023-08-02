@@ -5,37 +5,36 @@
 
 ---
 
-目前项目运行至 **阶段1** 。
+目前项目正在积极维护。
 
 ```html
 <div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run.png"></a></div>
-<p align="right">当前所在位置：<strong>run > folder</strong></p>
+<p align="right">Location: 当前所在位置：<strong>run > folder</strong></p>
 ```
 
 ```html
 <details><summary>答案：</summary><img src="path"/></details>
 ```
 
-<p align="center">项目总目标：<strong>润美国。</strong></p>
+<p align="center">项目总目标：<strong>润美国</strong></p>
 <p align="center">项目总耗时：预计8-9年</p>
 
 ---
 
-中国当前社会心态分析：
+附：中国当前社会心态分析
 
 ![i](./assets/young_analyse.jpg)
 
-## 阶段1：完成高中学业（3年）
+## 阶段1：完成高中学业（2年）
 
 前往 [高中学习](./高中/README.md) 主页。
 
 ## 阶段2：完成本科学业（计算机）（4年）
 
-……
+前往 [本科学习](./本科/README.md) 主页。
 
-英语学习：
-
-* [Subordinate-clause](./English/Subordinate_clause.md)
+另外，对于英语学习：
+前往 [英语学习](./English/README.md) 主页。
 
 ## 阶段3：完成硕士研究生学业（计算机）（2年）
 
@@ -43,7 +42,9 @@
 
 ## 阶段4：申请EB2-NIW签证（6-12个月）
 
-润美国的终点是拿到绿卡。祝你好运。
+润美国的终点是拿到绿卡。
+
+Good luck.
 
 ---
 
