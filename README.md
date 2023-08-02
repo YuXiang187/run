@@ -33,8 +33,7 @@
 
 前往 [本科学习](./本科/README.md) 主页。
 
-另外，对于英语学习：
-前往 [英语学习](./English/README.md) 主页。
+Go to [English](./English/README.md) mainpage.
 
 ## 阶段3：完成硕士研究生学业（计算机）（2年）
 
