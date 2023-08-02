@@ -33,9 +33,9 @@
 
 ……
 
-英语学习进度：
+英语学习：
 
-* [VOASE-20230724](./English/VOA/VOASE-20230724.md)
+* [Subordinate-clause](./English/Subordinate_clause.md)
 
 ## 阶段3：完成硕士研究生学业（计算机）（2年）
 
