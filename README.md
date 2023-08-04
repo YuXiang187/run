@@ -33,11 +33,11 @@
 
 前往 [本科学习](./本科/README.md) 主页。
 
-Go to [English](./English/README.md) mainpage.
+Go to [English-Learning](./English/README.md) mainpage.
 
 ## 阶段3：完成硕士研究生学业（计算机）（2年）
 
-……
+前往 [硕士学习](./硕士/README.md) 主页。
 
 ## 阶段4：申请EB2-NIW签证（6-12个月）
 
