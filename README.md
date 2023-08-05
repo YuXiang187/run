@@ -9,11 +9,7 @@
 
 ```html
 <div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run.png"></a></div>
-<p align="right">Location: 当前所在位置：<strong>run > folder</strong></p>
-```
-
-```html
-<details><summary>答案：</summary><img src="path"/></details>
+<p align="right">当前所在位置：<strong>run > folder</strong></p>
 ```
 
 <p align="center">项目总目标：<strong>润美国</strong></p>
@@ -21,7 +17,7 @@
 
 ---
 
-附：中国当前社会心态分析
+中国当前社会心态分析：
 
 ![i](./assets/young_analyse.jpg)
 
@@ -33,20 +29,20 @@
 
 前往 [本科学习](./本科/README.md) 主页。
 
-Go to [English-Learning](./English/README.md) mainpage.
+Go to the [English-Learning](./English/README.md) mainpage.
 
-## 阶段3：完成硕士研究生学业（计算机）（2年）
+## 阶段3：加拿大留学中转润美（2-3年）
+
+~~在中国完成研究生学业，然后申请EB2-NIW签证润美。~~（此方案成功几率渺茫，废弃）
+
+申请加拿大的省提名项目，留学硕士2年，毕业后拿枫叶卡的同时进美国的互联网公司，之后拿L1工签南下润美。（此方案成功几率最大最可靠）
 
 前往 [硕士学习](./硕士/README.md) 主页。
 
-## 阶段4：申请EB2-NIW签证（6-12个月）
-
-润美国的终点是拿到绿卡。
-
-Good luck.
+润美国的终点是拿到绿卡，祝你好运。
 
 ---
 
 [![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
-本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
+本项目采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
