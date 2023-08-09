@@ -1,6 +1,6 @@
 # run
 
-<p align="center"><img src="./assets/run.png"></p>
+<p align="center"><img src="./assets/yuxiang_logo.png"><strong> | </strong><img src="./assets/run.png"></p>
 <p align="center"><strong>2023/8/2 长期项目启动</strong></p>
 
 ---
@@ -29,7 +29,7 @@
 
 前往 [本科学习](./本科/README.md) 主页。
 
-Go to the [English-Learning](./English/README.md) mainpage.
+你需要在此阶段完成英语雅思考试。Go to the [English-Learning](./English/README.md) mainpage.
 
 ## 阶段3：加拿大留学中转润美（2-3年）
 
