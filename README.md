@@ -1,6 +1,6 @@
 # run
 
-<p align="center"><img src="./assets/yuxiang_logo.png"><strong> | </strong><img src="./assets/run.png"></p>
+<p align="center"><img src="./assets/yuxiang_logo.png"><img src="./assets/airline.png"><img src="./assets/run.png"></p>
 <p align="center"><strong>2023/8/2 长期项目启动</strong></p>
 
 ---
