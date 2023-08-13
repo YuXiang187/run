@@ -8,7 +8,7 @@
 <p align="right">当前所在位置：<strong>run > folder</strong></p>
 ```
 
-<img src="./assets/young_analyse.svg" alt="SVG Image" height="100">
+<p align="center"><img src="./assets/young_analyse.svg" alt="SVG Image" height="100"></p>
 <p align="center">项目总目标：<strong>润美国</strong></p>
 <p align="center">项目总耗时：预计8-12年</p>
 
@@ -16,20 +16,20 @@
 
 前往 [高中学习](./高中/README.md) 主页。
 
-请不要报考在美国黑名单上的中国大学。
+不要报考在美国黑名单上的中国大学。
 
 ## 阶段2：完成本科学业（计算机）（4年）
 
 前往 [本科学习](./本科/README.md) 主页。
 
-需在此阶段完成英语雅思考试。Go to the [English-Learning](./English/README.md) mainpage.
+要在此阶段完成英语雅思考试。Go to the [English-Learning](./English/README.md) mainpage.
 
 ## 阶段3：加拿大留学中转润美（2-6年）
 
 申请加拿大的省提名项目，留学硕士2年，毕业后拿枫叶卡的同时：
 
 * 前往美国移民局官网申请EB1A或EB2-NIW移民签证润美。
-* （备用方案）进美国的互联网公司，拿L1工签南下润美。
+* 进美国的互联网公司，拿L1工签南下润美。（备用方案）
 
 前往 [硕士学习](./硕士/README.md) 主页。
 
