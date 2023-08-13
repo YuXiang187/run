@@ -1,4 +1,4 @@
-<div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run.png"></a></div>
+<div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
 <p align="right">Location: <strong>run > English</strong></p>
 
 # English
