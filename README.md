@@ -23,7 +23,7 @@
 
 需要在此阶段完成英语雅思考试。Go to the [English-Learning](./English/README.md) mainpage.
 
-## 阶段3：完成硕士学业（2年）
+## 阶段3：完成硕士研究生学业（2年）
 
 前往 [硕士学习](./硕士/README.md) 主页（计算机）。
 
