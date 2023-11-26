@@ -1,7 +1,5 @@
 <div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
 
-# 项目规划
-
 认识到问题想跑是人之常情，习包子在努力闭关锁国当皇帝也是共识……
 
 但这种焦虑的情绪不会帮助本鼠跑路。
