@@ -1,6 +1,3 @@
-<div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
-<p align="right">当前所在位置：<strong>run > 本科 > Linux</strong></p>
-
 # ArchLinux下Wine的使用
 
 安装必要的包：

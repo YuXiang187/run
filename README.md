@@ -5,7 +5,6 @@
 
 ```html
 <div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
-<p align="right">Location: <strong>run > folder</strong></p>
 ```
 
 <p align="center"><img src="./assets/young_analyse.svg" alt="SVG Image" height="100"></p>

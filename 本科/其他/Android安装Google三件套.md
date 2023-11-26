@@ -1,6 +1,3 @@
-<div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
-<p align="right">当前所在位置：<strong>run > 本科 > 其他</strong></p>
-
 # Android安装Google三件套
 
 > 以下软件可前往[APKMirror](https://www.apkmirror.com/)下载，下载的应用均nodpi
