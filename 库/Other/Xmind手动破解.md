@@ -23,6 +23,7 @@
 6. `account.json`文件属性选择只读，保存。
 
 7. 激活码有效期到2022-11-25，因此需要使用RunAsDate修改软件所在的时间。
+
    [https://www.nirsoft.net/utils/run_as_date.html](https://www.nirsoft.net/utils/run_as_date.html)
 
    选择Xmind安装目录，勾选立即模式，时间选择2022年11月之前的时间即可。
