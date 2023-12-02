@@ -2,6 +2,7 @@
 
 <p align="center"><img src="./assets/yxproj_logo.svg" alt="SVG Image" height="60">&nbsp&nbsp&nbsp<img src="./assets/run_logo.svg" alt="SVG Image" height="50"></p>
 <p align="center"><strong>2023/8/2 长期项目启动</strong></p>
+<p align="center"><strong><a href="./库/项目介绍.md">项目介绍</a>   |   <a href="./库/项目规划.md">项目规划</a></strong></p>
 
 ```html
 <div align="right"><a href="https://github.com/YuXiang187/run"><img src="./assets/run_logo.svg" alt="SVG Image" height="50"></a></div>
@@ -9,12 +10,12 @@
 
 <p align="center"><img src="./assets/young_analyse.svg" alt="SVG Image" height="100"></p>
 
-相关的仓库：
+相关仓库：
 
 * [The Run Philosophy](https://github.com/The-Run-Philosophy-Organization/run)
 * [SmallRunningWiki](https://github.com/BaoBaoDualang/SmallRunningWiki)
 
-相关的论坛：
+相关论坛：
 
 * 跑路联盟：[Reddit - iwanttorun](https://www.reddit.com/r/iwanttorun/)
 * 润日联盟：[Reddit - runtoJapan](https://www.reddit.com/r/runtoJapan/)
