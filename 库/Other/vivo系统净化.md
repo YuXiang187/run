@@ -136,7 +136,6 @@ adb shell pm uninstall --user 0 com.vivo.wallet
 adb shell pm uninstall --user 0 com.vivo.weather.provider
 adb shell pm uninstall --user 0 com.vivo.widget.calendar
 adb shell pm uninstall --user 0 com.vlife.vivo.wallpaper
-adb shell pm uninstall --user 0 com.vivo.livewallpaper.glaze
 pause
 ```
 
