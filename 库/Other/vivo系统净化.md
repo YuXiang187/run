@@ -3,50 +3,8 @@
 自备安装包：
 
 * **文件管理器+**（必需）
-* Link2SD
-* 百度网盘
-* RAR
-* Delta图标包
-* **v2rayNG**
+* **v2rayNG**或者**ClashForAndroid**
 * **Google三件套**
-
-国内App：
-
-* 阿里云盘
-* 百度贴吧
-* 百度地图
-* bilibili
-* GoLink
-* QQ
-* 网易云音乐
-* 微信
-* 支付宝
-* 中国联通
-* 中国农业银行
-* 自助筛选
-* 自助听写
-* 蜜蜂便签
-* *微信读书、作业帮、京东*
-
-Google Play 商店下载：
-
-* Gmail
-* Twitter
-* YouTube
-* Google 地图
-* Github
-* pixiv
-* Google 翻译
-* HoYoLAB
-* Google Chrome
-* Steam
-* 原神
-* Google 计算器
-* Gboard
-* POCO桌面
-* Telegram
-* VLC
-* KDE Connect
 
 ---
 
@@ -77,14 +35,6 @@ Google Play 商店下载：
 
 ---
 
-附录：图标位置
-
-| 闹钟时钟 | 设置         | 文件管理器+ | 相册     |
-| -------- | ------------ | ----------- | -------- |
-| 中国联通 | 中国农业银行 | 阿里云盘    | 蜜蜂便签 |
-| 计算器   | bilibili     | 网易云音乐  | 支付宝   |
-| 微信     | QQ           | 原神        | RAR      |
-
 附录：vivo Y5s系统预装卸载名单（放在`.bat`文件快速执行）
 
 ```bash
@@ -101,10 +51,7 @@ adb shell pm uninstall --user 0 com.android.htmlviewer
 adb shell pm uninstall --user 0 com.android.managedprovisioning
 adb shell pm uninstall --user 0 com.android.printservice.recommendation
 adb shell pm uninstall --user 0 com.android.printspooler
-adb shell pm uninstall --user 0 com.android.providers.blockednumber
-adb shell pm uninstall --user 0 com.android.providers.calendar
 adb shell pm uninstall --user 0 com.android.statementservice
-adb shell pm uninstall --user 0 com.android.systemui.theme.dark
 adb shell pm uninstall --user 0 com.android.VideoPlayer
 adb shell pm uninstall --user 0 com.android.vivo.tws.vivotws
 adb shell pm uninstall --user 0 com.android.wallpaperbackup
@@ -189,6 +136,7 @@ adb shell pm uninstall --user 0 com.vivo.wallet
 adb shell pm uninstall --user 0 com.vivo.weather.provider
 adb shell pm uninstall --user 0 com.vivo.widget.calendar
 adb shell pm uninstall --user 0 com.vlife.vivo.wallpaper
+adb shell pm uninstall --user 0 com.vivo.livewallpaper.glaze
 pause
 ```
 
