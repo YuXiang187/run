@@ -95,7 +95,6 @@ adb shell pm uninstall --user 0 com.android.bbklog
 adb shell pm uninstall --user 0 com.android.bbkmusic
 adb shell pm uninstall --user 0 com.android.bips
 adb shell pm uninstall --user 0 com.android.browser
-adb shell pm uninstall --user 0 com.android.documentsui
 adb shell pm uninstall --user 0 com.android.dreams.alwaysondisplay
 adb shell pm uninstall --user 0 com.android.filemanager
 adb shell pm uninstall --user 0 com.android.htmlviewer
